@@ -59,4 +59,6 @@ The dataset used for this project is the Bank Marketing Dataset from the UCI Mac
 
 🚀 Visualized overall marketing campaign performance.
 
+![Bank Marketing Dashboard](dashboard.png)
+
 
