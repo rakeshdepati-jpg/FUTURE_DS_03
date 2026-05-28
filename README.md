@@ -8,45 +8,45 @@ This project is a Bank Marketing Analysis Dashboard created using Power BI. The 
 
 The main objective of this project is to:
 
-🏦 Analyze bank customer details
+* Analyze bank customer details
 
-📈 Understand subscription patterns
+* Understand subscription patterns
 
-📊 Visualize marketing campaign performance
+* Visualize marketing campaign performance
 
-🔍 Identify customer trends using interactive dashboards
+* Identify customer trends using interactive dashboards
 
 
 🛠️ Tools & Technologies Used
 
-📊 Power BI
+* Power BI
 
-📑 Microsoft Excel
+* Microsoft Excel
 
-📉 Data Visualization
+* Data Visualization
 
-🧹 Data Cleaning
+* Data Cleaning
 
 
 🗂️ Dataset Used
 
 The dataset used for this project is the Bank Marketing Dataset from the UCI Machine Learning Repository.
 
-✨ Dashboard Features
+* Dashboard Features
 
-👥 Customer Age Analysis
+* Customer Age Analysis
 
-✅ Subscription Status Analysis
+* Subscription Status Analysis
 
-💰 Loan Status Visualization
+* Loan Status Visualization
 
-💍 Marital Status Insights
+* Marital Status Insights
 
-💼 Job Category Distribution
+* Job Category Distribution
 
-📈 Campaign Performance Charts
+* Campaign Performance Charts
 
-🎛️ Interactive Filters and Slicers
+* Interactive Filters and Slicers
 
 
 🔑 Key Insights
